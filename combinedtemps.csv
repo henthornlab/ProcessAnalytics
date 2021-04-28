@@ -1,4 +1,4 @@
-Timestamp for sample frequency every 1 min,Temperature (°F),Relative Humidity (%),Room
+Timestamp,Temperature (F),Relative Humidity (%),Room
 4/13/2021 12:00,70.03,33.4,O215
 4/13/2021 12:01,69.93,33.4,O215
 4/13/2021 12:02,69.89,33.52,O215
