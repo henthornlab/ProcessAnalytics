@@ -1,0 +1,60 @@
+Game,Date,Winner,WinnerFranchise,Loser,LoserFranchise,Pts Winner,Pts Loser,City,Venue,Attendance
+I,1967-01-15,Green Bay Packers,Packers,Kansas City Chiefs,Chiefs,35,10,"Los Angeles, California",Los Angeles Memorial Coliseum,61946
+II,1968-01-14,Green Bay Packers,Packers,Oakland Raiders,Raiders,33,14,"Miami, Florida",Miami Orange Bowl,75546
+III,1969-01-12,New York Jets,Jets,Baltimore Colts,Colts,16,7,"Miami, Florida",Miami Orange Bowl,75389
+IV,1970-01-11,Kansas City Chiefs,Chiefs,Minnesota Vikings,Vikings,23,7,"New Orleans, Louisiana",Tulane Stadium,80562
+V,1971-01-17,Baltimore Colts,Colts,Dallas Cowboys,Cowboys,16,13,"Miami, Florida",Miami Orange Bowl,79204
+VI,1972-01-16,Dallas Cowboys,Cowboys,Miami Dolphins,Dolphins,24,3,"New Orleans, Louisiana",Tulane Stadium,81023
+VII,1973-01-14,Miami Dolphins,Dolphins,Washington Redskins,Commanders,14,7,"Los Angeles, California",Los Angeles Memorial Coliseum,90182
+VIII,1974-01-13,Miami Dolphins,Dolphins,Minnesota Vikings,Vikings,24,7,"Houston, Texas",Rice Stadium,71882
+IX,1975-01-12,Pittsburgh Steelers,Steelers,Minnesota Vikings,Vikings,16,6,"New Orleans, Louisiana",Tulane Stadium,80997
+X,1976-01-18,Pittsburgh Steelers,Steelers,Dallas Cowboys,Cowboys,21,17,"Miami, Florida",Miami Orange Bowl,80187
+XI,1977-01-09,Oakland Raiders,Raiders,Minnesota Vikings,Vikings,32,14,"Pasadena, California",Rose Bowl,103438
+XII,1978-01-15,Dallas Cowboys,Cowboys,Denver Broncos,Broncos,27,10,"New Orleans, Louisiana",Louisiana Superdome,76400
+XIII,1979-01-21,Pittsburgh Steelers,Steelers,Dallas Cowboys,Cowboys,35,31,"Miami, Florida",Miami Orange Bowl,79484
+XIV,1980-01-20,Pittsburgh Steelers,Steelers,Los Angeles Rams,Rams,31,19,"Pasadena, California",Rose Bowl,103985
+XV,1981-01-25,Oakland Raiders,Raiders,Philadelphia Eagles,Eagles,27,10,"New Orleans, Louisiana",Louisiana Superdome,76135
+XVI,1982-01-24,San Francisco 49ers,49ers,Cincinnati Bengals,Bengals,26,21,"Pontiac, Michigan",Pontiac Silverdome,81270
+XVII,1983-01-30,Washington Redskins,Commanders,Miami Dolphins,Dolphins,27,17,"Pasadena, California",Rose Bowl,103667
+XVIII,1984-01-22,Los Angeles Raiders,Raiders,Washington Redskins,Commanders,38,9,"Tampa, Florida",Tampa Stadium,72920
+XIX,1985-01-20,San Francisco 49ers,49ers,Miami Dolphins,Dolphins,38,16,"Stanford, California",Stanford Stadium,84059
+XX,1986-01-26,Chicago Bears,Bears,New England Patriots,Patriots,46,10,"New Orleans, Louisiana",Louisiana Superdome,73818
+XXI,1987-01-25,New York Giants,Giants,Denver Broncos,Broncos,39,20,"Pasadena, California",Rose Bowl,101063
+XXII,1988-01-31,Washington Redskins,Commanders,Denver Broncos,Broncos,42,10,"San Diego, California",San Diego–Jack Murphy Stadium,73302
+XXIII,1989-01-22,San Francisco 49ers,49ers,Cincinnati Bengals,Bengals,20,16,"Miami, Florida",Joe Robbie Stadium,75129
+XXIV,1990-01-28,San Francisco 49ers,49ers,Denver Broncos,Broncos,55,10,"New Orleans, Louisiana",Louisiana Superdome,72919
+XXV,1991-01-27,New York Giants,Giants,Buffalo Bills,Bills,20,19,"Tampa, Florida",Tampa Stadium,73813
+XXVI,1992-01-26,Washington Redskins,Commanders,Buffalo Bills,Bills,37,24,"Minneapolis, Minnesota",Metrodome,63130
+XXVII,1993-01-31,Dallas Cowboys,Cowboys,Buffalo Bills,Bills,52,17,"Pasadena, California",Rose Bowl,98374
+XXVIII,1994-01-30,Dallas Cowboys,Cowboys,Buffalo Bills,Bills,30,13,"Atlanta, Georgia",Georgia Dome,72817
+XXIX,1995-01-29,San Francisco 49ers,49ers,San Diego Chargers,Chargers,49,26,"Miami, Florida",Joe Robbie Stadium,74107
+XXX,1996-01-28,Dallas Cowboys,Cowboys,Pittsburgh Steelers,Steelers,27,17,"Tempe, Arizona",Sun Devil Stadium,76347
+XXXI,1997-01-26,Green Bay Packers,Packers,New England Patriots,Patriots,35,21,"New Orleans, Louisiana",Louisiana Superdome,72301
+XXXII,1998-01-25,Denver Broncos,Broncos,Green Bay Packers,Packers,31,24,"San Diego, California",Qualcomm Stadium,68912
+XXXIII,1999-01-31,Denver Broncos,Broncos,Atlanta Falcons,Falcons,34,19,"Miami, Florida",Pro Player Stadium,74803
+XXXIV,2000-01-30,St. Louis Rams,Rams,Tennessee Titans,Titans,23,16,"Atlanta, Georgia",Georgia Dome,72625
+XXXV,2001-01-28,Baltimore Ravens,Ravens,New York Giants,Giants,34,7,"Tampa, Florida",Raymond James Stadium,71921
+XXXVI,2002-02-03,New England Patriots,Patriots,St. Louis Rams,Rams,20,17,"New Orleans, Louisiana",Louisiana Superdome,72922
+XXXVII,2003-01-26,Tampa Bay Buccaneers,Buccaneers,Oakland Raiders,Raiders,48,21,"San Diego, California",Qualcomm Stadium,67603
+XXXVIII,2004-02-01,New England Patriots,Patriots,Carolina Panthers,Panthers,32,29,"Houston, Texas",Reliant Stadium,71525
+XXXIX,2005-02-06,New England Patriots,Patriots,Philadelphia Eagles,Eagles,24,21,"Jacksonville, Florida",Alltel Stadium,78125
+XL,2006-02-05,Pittsburgh Steelers,Steelers,Seattle Seahawks,Seahawks,21,10,"Detroit, Michigan",Ford Field,68206
+XLI,2007-02-04,Indianapolis Colts,Colts,Chicago Bears,Bears,29,17,"Miami Gardens, Florida",Dolphin Stadium,74512
+XLII,2008-02-03,New York Giants,Giants,New England Patriots,Patriots,17,14,"Glendale, Arizona",University of Phoenix Stadium,71101
+XLIII,2009-02-01,Pittsburgh Steelers,Steelers,Arizona Cardinals,Cardinals,27,23,"Tampa, Florida",Raymond James Stadium,70774
+XLIV,2010-02-07,New Orleans Saints,Saints,Indianapolis Colts,Colts,31,17,"Miami Gardens, Florida",Sun Life Stadium,74059
+XLV,2011-02-06,Green Bay Packers,Packers,Pittsburgh Steelers,Steelers,31,25,"Arlington, Texas",Cowboys Stadium,103219
+XLVI,2012-02-05,New York Giants,Giants,New England Patriots,Patriots,21,17,"Indianapolis, Indiana",Lucas Oil Stadium,68658
+XLVII,2013-02-03,Baltimore Ravens,Ravens,San Francisco 49ers,49ers,34,31,"New Orleans, Louisiana",Mercedes-Benz Superdome,71024
+XLVIII,2014-02-02,Seattle Seahawks,Seahawks,Denver Broncos,Broncos,43,8,"East Rutherford, New Jersey",MetLife Stadium,82529
+XLIX,2015-02-01,New England Patriots,Patriots,Seattle Seahawks,Seahawks,28,24,"Glendale, Arizona",University of Phoenix Stadium,70288
+50,2016-02-07,Denver Broncos,Broncos,Carolina Panthers,Panthers,24,10,"Santa Clara, California",Levi's Stadium,71088
+LI,2017-02-05,New England Patriots,Patriots,Atlanta Falcons,Falcons,34,28,"Houston, Texas",NRG Stadium,70807
+LII,2018-02-04,Philadelphia Eagles,Eagles,New England Patriots,Patriots,41,33,"Minneapolis, Minnesota",U.S. Bank Stadium,67612
+LIII,2019-02-03,New England Patriots,Patriots,Los Angeles Rams,Rams,13,3,"Atlanta, Georgia",Mercedes-Benz Stadium,70081
+LIV,2020-02-02,Kansas City Chiefs,Chiefs,San Francisco 49ers,49ers,31,20,"Miami Gardens, Florida",Hard Rock Stadium,62417
+LV,2021-02-07,Tampa Bay Buccaneers,Buccaneers,Kansas City Chiefs,Chiefs,31,9,"Tampa, Florida",Raymond James Stadium,24835
+LVI,2022-02-13,Los Angeles Rams,Rams,Cincinnati Bengals,Bengals,23,20,"Inglewood, California",SoFi Stadium,70048
+LVII,2023-02-12,Kansas City Chiefs,Chiefs,Philadelphia Eagles,Eagles,38,35,"Glendale, Arizona",State Farm Stadium,67827
+LVIII,2024-02-11,Kansas City Chiefs,Chiefs,San Francisco 49ers,49ers,25,22,"Paradise, Nevada",Allegiant Stadium,61629
+LIX,2025-02-09,Philadelphia Eagles,Eagles,Kansas City Chiefs,Chiefs,40,22,"New Orleans, Louisiana",Caesars Superdome,65719
